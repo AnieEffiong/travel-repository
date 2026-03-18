@@ -1,0 +1,16 @@
+#ignore files
+home.html
+
+#ignore folders
+images/
+
+#comment out folders
+# images/
+
+#ignore all files with a wildcard
+# *.txt
+# in*
+
+# ignore certain files even when other files have the same wildcard
+index[0-2].txt
+# index[e-i].txt
